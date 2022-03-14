@@ -4,4 +4,4 @@ Installation instructions for [Freqtrade](https://github.com/freqtrade/freqtrade
 ### Prepare AWS Workspace
 - Launch AWS workspace for Linux. Pick Directory, user, OS, Computer, Run Type, and Launch. Installed AWS Workspaces client and test login
 - Install [Docker](https://www.silverdreamracer.me/install-docker-on-amazon-linux-workspaces.html) (Get latest from https://github.com/docker/compose/releases)
-- 
+- keep a copy of docker-compose in /usr/local/bin and /usr/libexec/docker/cli-plugins
